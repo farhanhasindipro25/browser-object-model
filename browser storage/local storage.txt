@@ -1,0 +1,22 @@
+Local Storage:
+
+- Stores data in browser without any expiration date.
+- Saves data in key-value pairs in the browser.
+- Data is not deleted when the browser is closed.
+- Data is available for future sessions.
+
+
+Parameters:
+- Key: Name of the key. Required.
+- value: Value of the key. Required.
+
+Return Value:
+- Anything in a string format.
+
+
+Syntax:
+
+localStorage.getItem(key);
+localStorage.setItem(key,value);
+localStorage.removeItem(key);
+localStorage.clear();

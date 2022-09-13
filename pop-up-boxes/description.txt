@@ -1,0 +1,30 @@
+There are 3 types of pop-up boxes.
+1. Alert box.
+2. Confirmation box.
+3. Prompt box.
+
+All of them open a modal window.
+
+The user cannot interact with the rest of the components of the web page without responding to this window first.
+
+
+ALERT BOX:
+
+- Used to inform/alert the user and notify them about an event.
+- Contains only one button, named 'OK', and returns nothing as output.
+- Syntax: alert("Message");
+
+
+CONFIRMATION BOX:
+
+- Provides user with a choice to notify about an event.
+- This type of pop-up boc has two buttons, named 'OK' and 'Cancel', and returns 'true' and 'false' as outputs depending on the respective button click.
+- Syntax: confirm("message");
+
+
+PROMPT BOX:
+
+- Interaction with user is possible by asking the user to input some information.
+- Stores the user information.
+- It has two buttons: 'OK' and 'Cancel'. If the user clicks 'OK', the box returns the input value. If the user click 'Cancel', the box returns null.
+- Syntax: prompt("message");

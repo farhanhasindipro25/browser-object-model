@@ -1,0 +1,12 @@
+LOCATION (URL PARSING) PROPERTIES:
+
+
+https://www.domain.com:80/page/content.php?id=123#top
+
+
+https -> PROTOCOL
+www.domain.com -> HOST NAME
+80 -> PORT
+page/content.php -> PATH NAME
+id=123 -> SEARCH
+top -> HASH

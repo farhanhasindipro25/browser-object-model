@@ -1,0 +1,9 @@
+1. location.assign(): Keeps the history and adds the URL to history.
+
+2. location.replace(): Replaces the current history with the new URL.
+
+3. reload: reloads the URL
+
+4. toString: Gives the URL in a string format.
+
+5. location.href: Another way to redirect, by keeping the history.

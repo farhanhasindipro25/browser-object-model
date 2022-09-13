@@ -1,0 +1,1 @@
+history.length returns the number of pages visited within one tab.

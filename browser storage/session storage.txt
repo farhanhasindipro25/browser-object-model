@@ -1,0 +1,6 @@
+Session Storage:
+
+- Stores data in browser for a session.
+- Saves data in key/value pairs in the browser.
+- Data is deleted when the browser is closed.
+- Data is not available for future sessions.

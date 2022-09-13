@@ -1,0 +1,4 @@
+history.go(-1) -> Goes one page before.
+history.go(0) -> Reloads current page.
+history.go(1) -> Goes to the latest page.
+history.go(-3) -> Goes 3 pages before.

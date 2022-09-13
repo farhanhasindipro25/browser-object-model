@@ -1,0 +1,2 @@
+history.back() -> Goes one step backward to the last webpage visited within history object's length.
+history.forward() -> Goes one step forward to the latest webpage visited within history object's length.
